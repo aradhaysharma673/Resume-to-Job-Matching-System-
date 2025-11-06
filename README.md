@@ -30,7 +30,7 @@ An AI-powered system that automatically matches resumes to job descriptions, hel
 ### Local Setup
 \`\`\`bash
 # Clone repository
-git clone https://github.com/yourusername/resume-job-matcher.git
+git clone https://github.com/aradhaysharma673/resume-job-matcher.git
 cd resume-job-matcher
 
 # Create virtual environment
